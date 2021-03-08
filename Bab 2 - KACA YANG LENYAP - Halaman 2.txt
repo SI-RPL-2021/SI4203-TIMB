@@ -6,7 +6,6 @@ Nurfadilah
 Siti Fildzah
 
 
-<<<<<<< HEAD
 Sudah Hampir sepuluh tahun berlalu sejak suami-istri Dursley terbangun dan
 menemukan keponakan mereka di depan pintu, tetapi Privet Drive hampir tak berubah.
 Matahari terbit menyinari halaman-halaman depan yang rapi dan membuat berkilau angka
@@ -19,7 +18,7 @@ sekarang foto-foto itu menunjukkan anak gemuk berambut pirang menaiki sepeda rod
 pertamanya, naik komidi putar, bermain komputer dengan ayahnya, dipeluk dan dicium
 ibunya. Dalam ruangan itu sama sekali tidak ada tanda-tanda bahwa ada anak lain yang
 tinggal dirumah itu.
-=======
+
 Padahal Harry Potter masih di situ, saat ini sedang tidur, tapi tak akan lama lagi. B
 ibinya, Petunia, sudah bangun, dan suara nyaringnyalah yang pertama memecah kesunyian
 pagi itu.
@@ -46,4 +45,4 @@ sepasang di bawah tempat tidur, dan setelah menarik labah-labah dari salah satu 
 antaranya, dipakainya kaus kaki itu. Harry sudah terbiasa dengan labah-labah, karena lemari
 di bawah tangga penuh labah-labah, dan di situlah dia tidur.
 
->>>>>>> e86b0af98289c876767b6a6aea56e62d3586e102
+
